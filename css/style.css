@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Pixel-Code";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Pixel-Code"),
+        url("/fonts/CHNO-Pixel-Code-Pro-main/WOFF2/CHNOPixelCodePro-Regular.woff2") format("woff2"),
+        url("/fonts/CHNO-Pixel-Code-Pro-main/WOFF/CHNOPixelCodePro-Regular.woff") format("woff");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.centr {
+    margin: 0 auto 0;
+    max-width: 1140px;
+    background-color: aqua;
+}
+ul {
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
